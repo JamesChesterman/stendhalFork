@@ -73,6 +73,11 @@ The web client is free software; you can redistribute it and/or modify it under 
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
 even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+
+
+
+
+This is fork of repo
 [LICENSE.txt](LICENSE.txt) and [src/js/LICENSE.html](src/js/LICENSE.html) file for more details.
 
 Stendhal(c) is copyright of Miguel Angel Blanch Lardin, 2005-2008, arianne_rpg at users dot sourceforge dot net and others<br>
