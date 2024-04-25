@@ -84,7 +84,7 @@ public class MeetHayunnTest {
 		assertEquals("Follow the path through this village to the east, and you can't miss Semos. If you go and speak to Monogenes, the old man in this picture, he will give you a map. Here's 5 money to get you started. Bye bye!", getReply(npc));
 		en.step(player, "bye");
 		en.step(player, "hi");
-		assertEquals("Hello again. Have you come to learn more from me?", getReply(npc));
+		assertEquals("Hello again. what the sigma?", getReply(npc));
 		en.step(player, "yes");
 		assertEquals("Perhaps you have found Semos dungeons by now. The corridors are pretty narrow down there, so there's a trick to moving quickly and accurately. Do you like to hear it?", getReply(npc));
 		en.step(player, "yes");
